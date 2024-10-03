@@ -26,6 +26,7 @@
         </p>
     </main>
 
+    <img src="https://www.prydwen.gg/static/ab8fdf1564fffa985e2c493ad0e58f97/c9885/7_card.png" alt="">
 </body>
 
 <style>
